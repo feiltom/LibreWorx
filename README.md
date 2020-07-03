@@ -17,6 +17,7 @@ If you have another mower, or would like to improve the Board: Create a Pull req
 
 # How it Works
 Radio signal for perimetric -> work of Andreas B
+
 For mower detect base station 
 * when mower mow: 2 pin for charge mower connect to GND
 * When mower arrive and active switch: delay 500ms and after connect mower power to 24VDC ( limit to 1A with L200CV ) 
