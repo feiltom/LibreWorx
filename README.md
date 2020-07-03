@@ -26,3 +26,6 @@ The Board / Circuit is created with EasyEda.
 
 https://easyeda.com/feiltom/libreductioner
 
+# Power
+If you need a power warning it's not a 20v dc as label on orginal power supply !!! you need 24v dc 2.5A
+ex : https://www.amazon.com/YAYZA-Premium-Voltage-Transformer-Switching/dp/B07CWJNQ26/
